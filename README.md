@@ -1,4 +1,4 @@
-### THIS HAS BEEN UPDATED (again) ###
+### THIS HAS BEEN UPDATED ###
 
 # REST API starter
 
