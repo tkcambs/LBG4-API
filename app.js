@@ -27,7 +27,7 @@ let id = 1;
 
 // Function to build an item
 // takes in a name, description and price
-let itemBuilder = (itemName=TaylorMadeStealth, itemDescription=Driver, itemPrince=499, itemID=1234) => {
+let itemBuilder = (itemName=TaylorMadeStealth, itemDescription=Driver, itemPrice=499, itemID=1234) => {
     // uses literal notation to create an item object
     let item = {
         name : itemName,
